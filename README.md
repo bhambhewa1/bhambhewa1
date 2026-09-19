@@ -1,4 +1,8 @@
 ## Hi there 👋
+### I'm Ashish
+- 💻 **Full Stack Developer** | Backend & Logic Specialist
+- ⚙️ Having skills NodeJs, ExpressJs, NestJs, ReactJs, NextJs.
+- 📫 How to reach me: ajcse2@gmail.com , +919518225130
 
 <!--
 **bhambhewa1/bhambhewa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
